@@ -1,0 +1,57 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.flutter-plugins
+.flutter-plugins-dependencies
+.package-lock.json
+.pdm.lock
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+*.lock
+
+# IntelliJ related
+*.iml
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+*.editorconfig
+
+# VS Code related
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.so
+
+# Windows
+Thumbs.db
+*.exe
+*.dll
+*.lib
+
+# Android related
+*.apk
+*.aar
+*.jks
+.android/
+app/release/
+
+# iOS related
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Miscellaneous
+*.log
+*.gz
+*.zip
+*.temp
+*.tmp
+*.swp
